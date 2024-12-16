@@ -17,7 +17,9 @@ This project is built with HTML, CSS, and JavaScript and demonstrates dynamic DO
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Live Demo](#live-demo)
 - [Credits](#credits)
+- [License](#license)
 
 ---
 
@@ -72,9 +74,14 @@ This project is built with HTML, CSS, and JavaScript and demonstrates dynamic DO
    open index.html
    ```
 
+## Live Demo
+
+Check out the live demo of the project here: [Employee Payroll Tracker](https://michaelpratt23.github.io/employee-payroll-calculator/)​⬤
+
 ## Credits
 
 - **Developer**: Michael Pratt
+- **GitHub Repository**: [GitHub Link](https://github.com/michaelpratt23/employee-payroll-calculator)
 - **Bootcamp Project**: This project was completed as part of the edX Boot Camps curriculum.
 - **Starter Code**: Base HTML, CSS, and JavaScript structure provided by the boot camp.
 
